@@ -7,7 +7,7 @@ using System.Text;
  */
 namespace Chapter10_PersonStudent
 {
-    class Person // Example 10-1, pg 582
+    public class Person // Example 10-1, pg 582
     {
         private string idNumber;
         private string lastName;

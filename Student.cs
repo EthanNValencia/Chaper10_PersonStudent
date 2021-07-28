@@ -17,7 +17,7 @@ using System.Text;
  */
 namespace Chapter10_PersonStudent
 {
-    class Student : Person // Student is derrived from Person, a Student IS A Person.
+    public class Student : Person // Student is derrived from Person, a Student IS A Person.
     {
         private string major;
         private int studentId;
