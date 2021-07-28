@@ -1,0 +1,9 @@
+C:\Users\Ethan\source\repos\Chapter10_PersonStudent\bin\Debug\netcoreapp3.1\Chapter10_PersonStudent.deps.json
+C:\Users\Ethan\source\repos\Chapter10_PersonStudent\bin\Debug\netcoreapp3.1\Chapter10_PersonStudent.dll
+C:\Users\Ethan\source\repos\Chapter10_PersonStudent\bin\Debug\netcoreapp3.1\Chapter10_PersonStudent.pdb
+C:\Users\Ethan\source\repos\Chapter10_PersonStudent\obj\Debug\netcoreapp3.1\Chapter10_PersonStudent.csproj.AssemblyReference.cache
+C:\Users\Ethan\source\repos\Chapter10_PersonStudent\obj\Debug\netcoreapp3.1\Chapter10_PersonStudent.AssemblyInfoInputs.cache
+C:\Users\Ethan\source\repos\Chapter10_PersonStudent\obj\Debug\netcoreapp3.1\Chapter10_PersonStudent.AssemblyInfo.cs
+C:\Users\Ethan\source\repos\Chapter10_PersonStudent\obj\Debug\netcoreapp3.1\Chapter10_PersonStudent.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\repos\Chapter10_PersonStudent\obj\Debug\netcoreapp3.1\Chapter10_PersonStudent.dll
+C:\Users\Ethan\source\repos\Chapter10_PersonStudent\obj\Debug\netcoreapp3.1\Chapter10_PersonStudent.pdb
