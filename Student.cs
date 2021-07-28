@@ -2,8 +2,15 @@
 using System.Collections.Generic;
 using System.Text;
 /*
- * This is an example of how inheritance syntax is layed out in C#. 
- * Java uses the super keyword, but C# uses base. 
+ * This is a class library directory project. It is not a console-based or form-based project. 
+ * 
+ * If this project contained a class reference that was outside of the project itself, then
+ * it would be necessary to add a reference to that DLL. So for example, if it did not contain the
+ * Person.cs class, I would have to right click the project solution > Add > Add Reference
+ * Then I would have to find the DLL and add it as a reference. 
+ * 
+ * To build the DLL, go to: Build > Build "Project Name"
+ * That will build the project into a DLL. 
  * 
  * The DLL is built to the following directory:
  * C:\Users\Ethan\source\repos\Chapter10_PersonStudent\bin\Debug\netcoreapp3.1\Chapter10_PersonStudent.dll
